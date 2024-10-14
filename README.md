@@ -8,7 +8,6 @@ This project visualizes various cities around the world that I plan to visit, us
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Preview](#preview)
-- [License](#license)
 
 ## Features
 
@@ -61,6 +60,8 @@ To install the required libraries, use the following command:
 ```bash
 pip install cartopy matplotlib
 ```
+## Preview
+
 The map will show several cities marked with red points, each labeled with its respective name. Here is a sample of how the output looks:
 
 ![Figure_1](https://github.com/user-attachments/assets/69dffdb2-ef9e-46a3-87aa-d7c8600eaa9c)
